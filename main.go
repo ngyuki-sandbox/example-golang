@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./internal/oreore"
 	"fmt"
+	"github.com/ngyuki/example-golang/internal/oreore"
 )
 
 func main() {
